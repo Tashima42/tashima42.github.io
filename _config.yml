@@ -22,7 +22,7 @@ title: Pedro Tashima
 email: pedrotashima@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   Um blog pra compartilhar de tudo, desde dicas de programação,
-  produtividade, aprendizado, etc até músicas, artigos, livros, 
+  produtividade, aprendizado, etc até músicas, artigos, livros
   e o que mais me interessar. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.tashima.tech" # the base hostname & protocol for your site, e.g. http://example.com
