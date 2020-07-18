@@ -4,7 +4,7 @@ title:  "Essa dica vai te fazer parar de procrastinar"
 date:   2020-07-15 23:31:00 -0300
 categories: dica produtividade
 ---
-![work]()
+![work](https://github.com/Tashima42/blog/blob/master/_posts/img/2020-07-15-essa-dica-vai-te-fazer-parar-de-procrastinar-img.jpg?raw=true)
 Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1209640">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1209640">Pixabay</a>
 
 ## Minha procrastinação
