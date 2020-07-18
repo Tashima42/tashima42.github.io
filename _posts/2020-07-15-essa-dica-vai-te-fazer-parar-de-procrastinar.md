@@ -4,6 +4,9 @@ title:  "Essa dica vai te fazer parar de procrastinar"
 date:   2020-07-15 23:31:00 -0300
 categories: dica produtividade
 ---
+![work]()
+Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1209640">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1209640">Pixabay</a>
+
 ## Minha procrastinação
 Eu sou um procrastinador profissional. Já contei todos os azuleijos da cozinha, pensei em incontáveis teorias absurdas (e inúteis), reorganizei toda a mesa e limpei o quarto todo, mas nunca terminei de ler "A Hora da Estrela", aquele livro chato de vestibular da Clarice. Isso obviamente é um problema e eu sempre tive consciência, mas **o monstro da procrastinação é mais forte que eu**.  
 Como todos, pensava: "não tenho força de vontade suficiente pra mudar". Isso é 100% verdade, **eu não tenho força de vontade nenhuma**, porém, descobri que não ela não é tão necessária assim. O que realmente faz a diferença é o ambiente que você mesmo cria. Não vou me aprofundar muito porque tem dezenas de livros por aí falando sobre o assunto (coloquei alguns no [final](#referências)) e vou logo pra dica.
