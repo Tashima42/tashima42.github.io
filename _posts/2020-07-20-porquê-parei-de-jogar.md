@@ -7,7 +7,7 @@ categories: pessoal games
 
 
 ![franklin](https://github.com/Tashima42/blog/blob/master/_posts/img/2020-07-20-porqu%C3%AA-parei-de-jogar-img.jpg?raw=true)
-_Franklin, meu primeiro game e um ótimo desenho_
+_Franklin, meu primeiro game_
 
 * * *
 
