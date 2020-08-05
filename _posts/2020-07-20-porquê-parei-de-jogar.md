@@ -12,7 +12,7 @@ _Franklin, meu primeiro game_
 * * *
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_hobgOFDekg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_*O Filipe Deschamps fez um vídeo sensacional explicando cientificamente uma parte do meu ponto nesse post, da uma olhada antes*_
+_*O Filipe Deschamps fez um vídeo sensacional explicando cientificamente uma parte do meu ponto nesse post, da uma olhada antes*_ 
 
 ## Games na minha infância
 Uma das minhas memórias mais antigas é na frente de um monitor CRT jogando Franklin com minha irmã. Eu com certeza tinha entre meus 4 e 5 anos de idade. Desde então a paixão por games só aumentou, passei pelo Goof Troop (Pateta e Max do SNES), GTA San Andreas do PS2, Minecraft no PC  (quando a única opção era a Java) e por fim CS GO, também do PC. 
