@@ -8,3 +8,11 @@ a {
 	background-color: #212121;
 	color: white;
 }
+
+embed {
+  height: 98%;
+}
+
+.options {
+  height: 2%;
+}
