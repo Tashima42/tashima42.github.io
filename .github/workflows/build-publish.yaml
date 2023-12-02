@@ -23,7 +23,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: tashima42/site-generator
-          sparse-checkout: .
       - name: install site-generator
         run: |
           ./install.sh v0.0.5
