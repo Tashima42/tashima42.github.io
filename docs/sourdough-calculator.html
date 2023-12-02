@@ -101,6 +101,10 @@
     }
 
       
+.sourdough-main {
+display: flex;
+flex-direction: column;
+}
 
   </style>
 </head>
@@ -116,7 +120,7 @@
       
       <a class="menu-item" href="index.html">
         
-        <button><b>Home</b></button>
+        <button>Home</button>
         
       </a>
       
@@ -140,16 +144,32 @@
       
       <a class="menu-item" href="sourdough-calculator.html">
         
-        <button>Sourdough calculator</button>
+        <button><b>Sourdough calculator</b></button>
         
       </a>
       
     </div>
     <div class="content">
       
-<h1>Welcome to my site</h1>
-<p class="paragraph">Hey, this is an experiment in a website generator, please check the side bar for all the content
-</p>
+<div class="sourdough-main">
+  <h1>Sourdough calculator</h1>
+  <div>
+    <label for="starter-weight">Starter weight (grams):</label>
+    <input id="starter-weight" type=number />
+    <button onclick="calculate()">calculate</button>
+  </div>
+  <p>Flour: <a id="sourdough-flour"></a></p>
+  <p>Water: <a id="sourdough-water"></a></p>
+</div>
+<script>
+  function calculate() {
+    const starter = document.getElementById("starter-weight")
+    const flourAmmount = Math.round(Number(starter.value) * 2)
+    const waterAmmount = Math.round(flourAmmount * 0.6)
+    document.getElementById("sourdough-flour").textContent = flourAmmount
+    document.getElementById("sourdough-water").textContent = waterAmmount
+  }
+</script>
 
     </div>
   </div>
