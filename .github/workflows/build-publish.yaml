@@ -26,8 +26,9 @@ jobs:
         uses: actions/checkout@v4
       - name: build
         run: |
-          rm *.html
-          site-generator generate -t tashima42 -d .
+          rm -rf docs
+          mkdir -p docs
+          site-generator generate -t tashima42 -d docs
       - name: GitHub Commit & Push
         uses: actions-js/push@v1.4
         with:
