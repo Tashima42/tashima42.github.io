@@ -1,4 +1,4 @@
-name: Build and deploy pages
+name: Build and push pages
 on:
   workflow_dispatch:
 
@@ -7,16 +7,9 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs: 
   build-pages-publish:
-    name: Build html pages and publish
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    name: Build html pages and push
     runs-on: ubuntu-latest
     steps:
       - name: checkout root files
@@ -35,7 +28,7 @@ jobs:
         run: |
           rm -rf docs
           mkdir -p docs
-          site-generator generate -t tashima42 -d .docs
+          site-generator generate -t tashima42 -d docs
       - name: GitHub Commit & Push
         uses: actions-js/push@v1.4
         with:
