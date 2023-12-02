@@ -19,7 +19,7 @@ jobs:
           sparse-checkout: .
       - name: install site-generator
         run: |
-          ./install.sh v0.0.5
+          ./install.sh latest
           INSTALL_DIR=$HOME/.local/bin
           echo "${INSTALL_DIR}" >> "${GITHUB_PATH}"
       - name: checkout tashima42.github.io
