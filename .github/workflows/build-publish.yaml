@@ -34,3 +34,9 @@ jobs:
           rm -rf docs
           mkdir -p docs
           site-generator generate -t tashima42 -d .docs
+      - name: GitHub Commit & Push
+        uses: actions-js/push@v1.4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: "update pages deployment ${date}"
+      
